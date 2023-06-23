@@ -1,8 +1,8 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
 	<PropertyGroup>
-		<PackageReleaseNotes>Release v0.0.1</PackageReleaseNotes>
-		<Version>0.0.1</Version>
+		<PackageReleaseNotes>Release v0.0.2</PackageReleaseNotes>
+		<Version>0.0.2</Version>
 		
 		<TargetFramework>net6.0</TargetFramework>
 		<ImplicitUsings>enable</ImplicitUsings>
@@ -14,6 +14,7 @@
 		<Description>Komet is a modern text-based game engine. It aims to be modular, intuitive, and quick to use. It can be used for both linear and non-linear game development.</Description>
 		<Copyright>Copyright (c) 2023 Axis Development</Copyright>
 		<RepositoryUrl>https://github.com/AxisDevelopment/Komet</RepositoryUrl>
+		<RepositoryType>GitHub</RepositoryType>
 		<PackageTags>GameEngine;Game;TextBased;TextBasedGame</PackageTags>
 
 		<NeutralLanguage>en-US</NeutralLanguage>

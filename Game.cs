@@ -105,6 +105,7 @@ namespace AxisDevelopment.Komet {
             while (running) {
                 MessageHandler.SendMessage("update");
                 Update();
+                Time.Update();
 
                 string command = Console.ReadLine();
                 foreach (Command c in commands) {
